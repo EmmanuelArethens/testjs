@@ -1,0 +1,26 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelArethens/testjs.git"
+  },
+  "author": "Emmanuel Arethens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmanuelArethens/testjs/issues"
+  },
+  "homepage": "https://github.com/EmmanuelArethens/testjs#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0"
+  }
+}
